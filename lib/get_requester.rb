@@ -1,1 +1,5 @@
-# Write your code here
+require "http"
+
+class GetRequester
+  
+end 
